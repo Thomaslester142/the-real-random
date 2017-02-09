@@ -1,0 +1,22 @@
+#button-container {
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+h1 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font color: darkred
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font color: darkred
+}
+
+body {
+    background-image: url(http://www.hatchconference.com/wp-content/uploads/2014/09/launchabusinesscartoonrocket.jpg)
+}
+    
